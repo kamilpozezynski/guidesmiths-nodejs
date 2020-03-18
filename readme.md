@@ -16,14 +16,14 @@
 - `model.js`: Contains the data model.
 - `url.js` -> Contains the routing of my app.
 
-`CONFIG` folder: Contains the configuration of the app, it could contain the pool for mySQL for example, the connections to the database like mongoDb, etc. It should contain also an .env file, in this case I have dispensed as it is a demo. It also contains the route handling for all the apis, so its the  first endpoint to hit fallowing the structure localhost:3000/`api`/+API_NAME/RouteToHit
+`CONFIG` folder: Contains the configuration of the app, it could contain the pool for mySQL for example, the connections to the database like mongoDb, etc. It should contain also an .env file, in this case I have dispensed as it is a demo. It also contains the route handling for all the apis, so its the  first endpoint to hit fallowing the structure localhost:8000/`api`/+API_NAME/RouteToHit
 
 `.babelrc` -> Contains the babel configuration
 <br>
 `app.js` -> It is kept as clean as possible, it is the core of the application.
 
 ### TEST ENDPOINT 
-http://localhost:3000/api/phone/phones
+http://localhost:8000/api/phone/phones
 
 ## thank you
 Kamil Pozezynski
