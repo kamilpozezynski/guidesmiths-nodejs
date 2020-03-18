@@ -1,6 +1,7 @@
 # BACKEND FOR TASK
 
 ## RUN THE APP
+- Need to have Node.js
 - To run the server first of all you need to install the dependencies using `npm install`
 - `npm run dev`
 
